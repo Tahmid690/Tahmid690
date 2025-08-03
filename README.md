@@ -38,13 +38,9 @@ I'm a **Computer Science and Engineering** student at **Bangladesh University of
 
 ## 💻 Featured Projects
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="900">
-</div>
 
 ### 🛫 [NimbusFly - Airline Ticket Management System](https://github.com/Tahmid690/NimbusFly)
 
-<img align="right" alt="Project GIF" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="280px"/>
 
 A comprehensive web-based platform for booking, managing, and scheduling airline tickets with enterprise-grade features.
 
@@ -76,10 +72,6 @@ Desktop application for comprehensive cricket player and club management with re
 **✨ Features:** Multi-club networking • Player transfer system • Advanced search functionality • Real-time market updates
 
 ## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="900">
-</div>
 
 <div align="center">
 
@@ -170,13 +162,8 @@ Desktop application for comprehensive cricket player and club management with re
 
 <br clear="both" />
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Tahmid690&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
-  
-</div>
+
 
 ## 📫 Let's Connect!
 
