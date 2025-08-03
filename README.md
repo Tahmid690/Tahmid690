@@ -8,11 +8,6 @@
 I'm a **Computer Science and Engineering** student at **Bangladesh University of Engineering and Technology (BUET)** with a passion for competitive programming and building impactful web applications.
 
 
-
-<br clear="both" />
-
-
-
 ## 💻 Featured Projects
 
 
