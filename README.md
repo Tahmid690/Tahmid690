@@ -152,11 +152,4 @@ Desktop application for comprehensive cricket player and club management with re
 
 ---
 
-<div align="center">
-  
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Tahmid690&color=58a6ff&style=for-the-badge&label=Profile+Views)
-  
-  **Thanks for visiting! ⭐ Star my repositories if you find them interesting!**
-  
-</div>
+
