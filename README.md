@@ -124,7 +124,7 @@ Desktop application for comprehensive cricket player and club management with re
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tahmid690)
 [![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Tahmid690)
 
-**🏅 Codeforces:** Falcon_76 (Max Rating: **1933** - Expert Level)  
+**🏅 Codeforces:** Falcon_76 (Max Rating: **1933** - Candidae Master)  
 **⭐ CodeChef:** tahmid690 (**4 Star** Coder)
 **⭐ CodeChef:** tahmid690 
 
