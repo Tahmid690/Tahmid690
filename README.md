@@ -7,33 +7,11 @@
 
 I'm a **Computer Science and Engineering** student at **Bangladesh University of Engineering and Technology (BUET)** with a passion for competitive programming and building impactful web applications.
 
-- 🎯 **Competitive Programming Enthusiast** - Qualified for ACM ICPC Asia West Continent Championship 2025
-- 💻 **Full-Stack Developer** - Building scalable web applications with modern technologies
-- 🔍 **Currently Learning** - Django, Machine Learning
-- 📊 **CGPA**: 3.94/4.00
-- 🏆 **Multiple programming contest winner** with 16+ contest achievements
-- 🌟 **National Champion** - Young Researchers Conference 2018
+
 
 <br clear="both" />
 
-## 🏆 Competitive Programming Highlights
 
-<div align="center">
-
-
-| 🏅 Achievement | 🏟️ Contest | 📅 Year |
-|-------------|---------|------|
-| 🥇 **Qualified** | ACM ICPC Asia West Continent Championship | 2025 |
-| 🥉 **3rd Place** | Uttara University Inter University Programming Contest | 2025 |
-| 🥉 **3rd Place** | DUET Inter University Programming Contest | 2025 |
-| 🥉 **3rd Place** | AUST Inter University Programming Contest | 2025 |
-| 🏅 **7th Place** | KUET Inter University Programming Contest | 2024 |
-| 🏅 **6th Place** | ACM ICPC Dhaka Regional Preliminary | 2024 |
-| 🏅 **16th Place** | ACM ICPC Dhaka Regional | 2024 |
-| 🏅 **7th Place** | National High School Programming Contest | 2021 |
-
-
-</div>
 
 ## 💻 Featured Projects
 
