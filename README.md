@@ -118,9 +118,6 @@ Desktop application for comprehensive cricket player and club management with re
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
-</div>
 
 <div align="center">
   
@@ -169,7 +166,6 @@ Desktop application for comprehensive cricket player and club management with re
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="800">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahmidhossain690@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tahmid690)
@@ -184,7 +180,6 @@ Desktop application for comprehensive cricket player and club management with re
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Tahmid690&color=58a6ff&style=for-the-badge&label=Profile+Views)
   
