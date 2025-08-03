@@ -37,6 +37,8 @@ A physics-based 2D artillery game featuring realistic projectile motion and inte
 
 **✨ Features:** Realistic physics simulation • Wind effects • Collision detection • Retro-style graphics
 
+<br clear="both" />
+
 ### 🏏 [Cric Manager - Cricket Management System](https://github.com/Tahmid690/cric-manager)
 
 Desktop application for comprehensive cricket player and club management with real-time networking.
