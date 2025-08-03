@@ -83,11 +83,7 @@ A comprehensive web-based platform for booking, managing, and scheduling airline
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Core CS Concepts
-![Data Structures](https://img.shields.io/badge/Data_Structures-4285F4?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-FF6B6B?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-4ECDC4?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-45B7D1?style=for-the-badge)
+
 
 </div>
 
