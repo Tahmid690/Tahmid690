@@ -1,14 +1,8 @@
 # Hi there, I'm Tahmid! 👋
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Full-Stack+Developer;Problem+Solver;BUET+CSE+Student)
-  
-</div>
-
 ## 🚀 About Me
 
-I'm a **Computer Science Engineering** student at **Bangladesh University of Engineering and Technology (BUET)** with a passion for competitive programming and building impactful web applications.
+I'm a **Computer Science and Engineering** student at **Bangladesh University of Engineering and Technology (BUET)** with a passion for competitive programming and building impactful web applications.
 
 - 🎯 **Competitive Programming Enthusiast** - Qualified for ACM ICPC Asia West Continent Championship 2025
 - 💻 **Full-Stack Developer** - Building scalable web applications with modern technologies
@@ -26,7 +20,11 @@ I'm a **Computer Science Engineering** student at **Bangladesh University of Eng
 | 🥉 **3rd Place** | Uttara University Inter University Programming Contest | 2025 |
 | 🥉 **3rd Place** | DUET Inter University Programming Contest | 2025 |
 | 🥉 **3rd Place** | AUST Inter University Programming Contest | 2025 |
+| 🏅 **7th Place** | KUET Inter University Programming Contest | 2025 |
+| 🏅 **6th Place** | ACM ICPC Dhaka Regional Preliminary | 2024 |
 | 🏅 **16th Place** | ACM ICPC Dhaka Regional | 2024 |
+| 🏅 **7th Place** | National High School Programming Contest | 2021 |
+
 
 </div>
 
@@ -117,7 +115,7 @@ A comprehensive web-based platform for booking, managing, and scheduling airline
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahmidhossain690@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tahmid690)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tahmid-hossain-a7a497282/)
 
 **📱 Phone:** +8801816-569881
 
