@@ -1,6 +1,16 @@
 # Hi there, I'm Tahmid! 👋
 
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Full-Stack+Developer;Problem+Solver;BUET+CSE+Student)
+  
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+  
+</div>
+
 ## 🚀 About Me
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360px"/>
 
 I'm a **Computer Science and Engineering** student at **Bangladesh University of Engineering and Technology (BUET)** with a passion for competitive programming and building impactful web applications.
 
@@ -9,18 +19,23 @@ I'm a **Computer Science and Engineering** student at **Bangladesh University of
 - 🔍 **Currently Learning** - Django, Machine Learning
 - 📊 **CGPA**: 3.94/4.00
 - 🏆 **Multiple programming contest winner** with 16+ contest achievements
+- 🌟 **National Champion** - Young Researchers Conference 2018
+
+<br clear="both" />
 
 ## 🏆 Competitive Programming Highlights
 
 <div align="center">
 
-| Achievement | Contest | Year |
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+| 🏅 Achievement | 🏟️ Contest | 📅 Year |
 |-------------|---------|------|
 | 🥇 **Qualified** | ACM ICPC Asia West Continent Championship | 2025 |
 | 🥉 **3rd Place** | Uttara University Inter University Programming Contest | 2025 |
 | 🥉 **3rd Place** | DUET Inter University Programming Contest | 2025 |
 | 🥉 **3rd Place** | AUST Inter University Programming Contest | 2025 |
-| 🏅 **7th Place** | KUET Inter University Programming Contest | 2025 |
+| 🏅 **7th Place** | KUET Inter University Programming Contest | 2024 |
 | 🏅 **6th Place** | ACM ICPC Dhaka Regional Preliminary | 2024 |
 | 🏅 **16th Place** | ACM ICPC Dhaka Regional | 2024 |
 | 🏅 **7th Place** | National High School Programming Contest | 2021 |
@@ -28,20 +43,50 @@ I'm a **Computer Science and Engineering** student at **Bangladesh University of
 
 </div>
 
-## 💻 Featured Project
+## 💻 Featured Projects
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="900">
+</div>
 
 ### 🛫 [NimbusFly - Airline Ticket Management System](https://github.com/Tahmid690/NimbusFly)
 
-A comprehensive web-based platform for booking, managing, and scheduling airline tickets.
+<img align="right" alt="Project GIF" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="280px"/>
+
+A comprehensive web-based platform for booking, managing, and scheduling airline tickets with enterprise-grade features.
 
 **🛠️ Tech Stack:** ReactJS • NodeJS • PostgreSQL • TailwindCSS • ExpressJS
 
 **✨ Key Features:**
-- 🔐 Secure authentication with role-based dashboards
-- ✈️ Dynamic ticket booking workflows
-- 📊 Real-time flight and booking queries
-- 👨‍💼 Complete admin operations suite
+- 🔐 Secure JWT authentication with role-based dashboards
+- ✈️ Dynamic ticket booking workflows with real-time updates
+- 📊 Advanced PostgreSQL queries for flight management
+- 👨‍💼 Complete admin operations suite with inventory management
+- 🎨 Responsive UI design with TailwindCSS
+
+<br clear="both" />
+
+### 🎮 [Retro Gorilla Artillery Game](https://github.com/Tahmid690/artillery-game)
+
+A physics-based 2D artillery game featuring realistic projectile motion and interactive gameplay mechanics.
+
+**🛠️ Tech Stack:** C++ • OpenGL • iGraphics Library
+
+**✨ Features:** Realistic physics simulation • Wind effects • Collision detection • Retro-style graphics
+
+### 🏏 [Cric Manager - Cricket Management System](https://github.com/Tahmid690/cric-manager)
+
+Desktop application for comprehensive cricket player and club management with real-time networking.
+
+**🛠️ Tech Stack:** Java • JavaFX • Java Networking APIs
+
+**✨ Features:** Multi-club networking • Player transfer system • Advanced search functionality • Real-time market updates
+
 ## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="900">
+</div>
 
 <div align="center">
 
@@ -84,22 +129,30 @@ A comprehensive web-based platform for booking, managing, and scheduling airline
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
 
-
 </div>
 
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tahmid690&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmid690&layout=compact&langs_count=7&theme=tokyonight"/>
-  
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tahmid690&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tahmid690&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmid690&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tahmid690&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahmid690&theme=tokyo-night&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=false&border_radius=10" />
   
 </div>
 
@@ -107,36 +160,41 @@ A comprehensive web-based platform for booking, managing, and scheduling airline
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Falcon_76)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tahmid690)
+[![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Tahmid690)
 
-**🏅 Codeforces:** Falcon_76 (Max Rating: 1933)  
-**⭐ CodeChef:** tahmid690 (4 Star)
+**🏅 Codeforces:** Falcon_76 (Max Rating: **1933** - Expert Level)  
+**⭐ CodeChef:** tahmid690 (**4 Star** Coder)
+**⭐ CodeChef:** tahmid690 
+
 
 </div>
 
-## 📈 Activity Graph
+
+
+<br clear="both" />
+
+## 🏆 GitHub Trophies
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahmid690&theme=tokyo-night&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tahmid690&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
   
 </div>
-
-## 🌟 What I'm Up To
-
-- 🔭 Currently working on expanding my skills in **Django** and **Machine Learning**
-- 🌱 Always learning new **algorithms** and **data structures**
-- 💡 Love solving complex problems and building efficient solutions
-- 🤝 Open to collaborating on interesting projects
 
 ## 📫 Let's Connect!
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="800">
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahmidhossain690@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tahmid690)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tahmid-hossain-a7a497282/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Falcon_76)
 
 **📱 Phone:** +8801816-569881
 
@@ -146,8 +204,10 @@ A comprehensive web-based platform for booking, managing, and scheduling airline
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Tahmid690&color=58a6ff&style=for-the-badge)
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
   
-  **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
+  ![Profile Views](https://komarev.com/ghpvc/?username=Tahmid690&color=58a6ff&style=for-the-badge&label=Profile+Views)
+  
+  **Thanks for visiting! ⭐ Star my repositories if you find them interesting!**
   
 </div>
