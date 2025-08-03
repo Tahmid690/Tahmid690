@@ -126,6 +126,7 @@ Desktop application for comprehensive cricket player and club management with re
 
 **🏅 Codeforces:** Falcon_76 (Max Rating: **1933** - Candidae Master)  
 **⭐ CodeChef:** tahmid690 (**4 Star** Coder)
+<br/>
 **⭐ CodeChef:** tahmid690 
 
 
